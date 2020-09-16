@@ -1,0 +1,1 @@
+//code snippet for Day 0: Hello, World.
