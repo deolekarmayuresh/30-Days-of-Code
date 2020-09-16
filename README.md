@@ -1,1 +1,1 @@
-# 30-Days-of-Code
+# HackerRank Soultions for 30-Days-of-Code 
