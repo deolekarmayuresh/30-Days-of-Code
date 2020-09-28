@@ -1,0 +1,1 @@
+// code snippet for Day 12: Inheritance
