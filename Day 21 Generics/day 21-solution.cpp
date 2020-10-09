@@ -1,6 +1,5 @@
 // code snippet for Day 21: Generics
 
-
 /**
 *    Name: printArray
 *    Print each element of the generic vector on a new line. Do not return anything.
@@ -15,4 +14,3 @@ void printArray(vector<M> array) {
           cout << i << endl;
      }
 }
-
