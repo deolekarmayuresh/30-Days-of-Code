@@ -3,8 +3,8 @@
 function Solution(){
 
     this.removeDuplicates=function(head){
-      //Write your code here
-      
+    //Write your code here
+
     //   if (typeof theactualHead === 'undefined') {
     //         theactualHead = head;
     //    }
