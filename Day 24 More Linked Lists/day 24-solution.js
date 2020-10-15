@@ -4,9 +4,11 @@ function Solution(){
 
     this.removeDuplicates=function(head){
       //Write your code here
+      
     //   if (typeof theactualHead === 'undefined') {
     //         theactualHead = head;
     //    }
+
     let unique = []
 
       while(head) {
